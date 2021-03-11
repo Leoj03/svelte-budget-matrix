@@ -1,11 +1,6 @@
 # Budget
 
-A simple way to budget your money and reconcile your statements, built using Svelte.
-
-## Try it out
-
-You can try it out (not yet alpha) here:
-https://forevermatt.github.io/svelte-budget/
+Fork of forevermatt/svelte-budget, testing a [Matrix](matrix.org) based backend.
 
 ## Goals
 
